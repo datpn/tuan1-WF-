@@ -1,0 +1,33 @@
+.main{
+    text-align: center;
+    background: aliceblue;
+    color: red;
+    font-family: Arial;
+    font-size: 17px;
+}
+.main table {
+    /*color: blue;*/
+    /*margin-left: 25%;*/
+    width: 100%;
+}
+.tieude{
+background-color: cadetblue;
+    color: blue;
+}
+th, td{
+    padding: 5px;
+    text-align: center;
+}
+.ahihi{
+    text-align: left;
+    padding: 20px;
+    color: blueviolet;
+}
+.ten{
+     text-align: left;
+    color: brown;
+ }
+.ten2{
+    text-align: right;
+    color: brown;
+}

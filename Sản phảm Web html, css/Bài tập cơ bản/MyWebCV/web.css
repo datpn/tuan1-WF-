@@ -1,0 +1,25 @@
+.all{
+    background-color: aliceblue;
+}
+.maudo{
+    color: brown;
+}
+.top{
+    float: inherit;
+}
+.anh{
+    height: auto;
+    width: auto;
+}
+img{
+    float: left;
+    width: 200px;
+    height: 280px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+article{
+    width: 1300px;
+        height: 300px;
+}

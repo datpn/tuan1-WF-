@@ -1,0 +1,234 @@
+body{
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+    background-color: #CDCDCD;
+}
+
+#main{
+    width: 1000px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+#head{
+    height: 80px;
+    /*background-color: darkblue;*/
+    border: 0px solid white;
+    /*margin-bottom: 110px;*/
+
+}
+#left{
+    width: 150px;
+    min-height: 400px;
+    border: 1px solid #CDCDCD;
+    float:left;
+    background-color: #004C00;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    background-color: white;
+}
+#content{
+    width: 750px;
+    min-height: 400px;
+    border: 1px solid #CDCDCD;
+    float:left;
+    /*margin-left: 5px;*/
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: white;
+    padding: 0px;
+}
+#right{
+    width: 243px;
+    min-height: 1077px;
+    border: 1px solid #CDCDCD;
+    float:right;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: white;
+}
+#footer{
+    height: 60px;
+    clear: both;
+    border: 1px solid #CDCDCD;
+    background-color: white;
+}
+.canphai{
+float: right;
+    padding: 5px;
+    margin-top: 10px;
+}
+body {
+    margin:0;
+}
+.navbar {
+    overflow: hidden;
+    background-color: darkblue;
+    /*position: fixed;*/
+    /*top: 0;*/
+    width: 999px;
+    margin-top: 10px;
+    text-decoration: none;
+
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 14px;
+text-decoration: none;
+}
+
+.main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;  Used in this example to enable scrolling
+}
+.neophai{
+    float: right;
+    padding: 0px;
+    margin-top: 0px;
+}
+.xoagach{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial;
+    color: darkslategray;
+    padding-top: 2px;
+    padding-left: 10px;
+}
+.cangiua{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 50px;
+    color: red;
+}
+.cananh{
+    padding: 10px;
+}
+.hottc{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial;
+    color: darkslategray;
+    padding-left: 10px;
+}
+body{
+    font-family: Arial;
+}
+
+#menu{
+    height: 40px;
+    padding:0;
+    margin:0;
+    background-color: midnightblue;
+    border: 1px solid #CDCDCD;
+}
+
+#menu ul, #menu li{
+    padding:0;
+    margin:0;
+}
+
+#menu li{
+    position: relative;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+
+#menu li a{
+    width:150px;
+    height: 30px;
+    display: block;
+    text-decoration:none;
+    text-align: center;
+    line-height: 30px;
+    background-color: midnightblue;
+    color: white;
+    font-size: 17px;
+    padding-top: 5px;
+}
+
+#menu ul ul li a{
+    width: 150px;
+    text-align: left;
+    padding-left: 10px;
+
+}
+
+#menu li a:hover{
+    background-color: red;
+}
+
+#menu ul ul{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    visibility: hidden;
+}
+
+#menu ul li:hover ul{
+    visibility: visible;
+}
+.tabtruyen{
+    font-size: 14px;
+    font-family: Arial;
+    padding: 10px;
+    text-decoration: none;
+    color: darkslategray;
+}
+.tabtruyenmoi{
+    text-align: left;
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 14px;
+}
+.cananhduoi{
+    padding: 15px;
+    padding-left: 20px;
+}
+.footertext{
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+    color: #004C00;
+}
+.tieude{
+    text-align: left;
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 14px;
+    color: red;
+}
+.xephang{
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
+    background: mediumslateblue;
+    -moz-border-radius: 20px;
+    border-radius: 15px;
+    margin-right: 1px;
+    color: white;
+}
+.menu{
+    list-style: none;
+    padding-left: 10px;
+}
+.quangcao{
+    margin: 5px;
+    /*padding-left: 15px;*/
+}
+.tieudeqc{
+    text-align: center;
+    color: red;
+    font-size: 14px;
+    font-family: Arial;
+}

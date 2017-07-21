@@ -1,0 +1,34 @@
+table{
+    width: 75%;
+    /*padding-left: 20%;*/
+margin-left: 150px;
+}
+.maudo{
+    color: red;
+    text-align: center;
+}
+.backcolorvang{
+    background-color: yellow;
+}
+.backcolordo{
+    background-color: red;
+}
+.backcolorxanh {
+background-color: blue;
+}
+th{
+    width: 100px;
+    height: 50px;
+}
+.cochuto{
+    font-family: Arial;
+    font-size: 16pt;
+}
+.cochunho{
+    font-family: Arial;
+    font-size: 10pt;
+}
+.mauxanh{
+    color: blue;
+    text-align: center;
+}
